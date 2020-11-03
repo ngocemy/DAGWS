@@ -1,0 +1,5 @@
+name: bioinfor
+channels:
+  - defaults
+  - conda-forge
+prefix: C:\Users\lehuy\anaconda3\envs\bioinfor
